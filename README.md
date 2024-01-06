@@ -1,28 +1,16 @@
-# Upstream
- 
-
-
-# RESTFUL-API
-<h1 align="center"> Exemplos de user story do site todomvc.com </h1>
+# Upstream - Analise de User Stories
+<h1 align="center"> Exemplos de User Stories do site todomvc.com </h1>
 
 Este repositório tem como objetivo documentar as funcionalidades estudadas no site https://todomvc.com/examples/react/#/
-
-<h3>User Stories</h3>
 
 <h4>Tela Inicial</h4>
 <img src="https://github.com/IngridVanzeli/Upstream/assets/47196643/4e5520c5-c49a-4793-80b0-d6fdf17b851d" width="400"/>
 
-<h4>ADICIONAR ITENS</h4>
+<h4>Adicionar itens</h4>
 <img src="https://github.com/IngridVanzeli/Upstream/assets/47196643/5a155e04-6a53-4df1-a983-8d97bd62bd06" width="400"/>
 
-<h4>SINGLE OBJECT</h4>
-<img src="https://github.com/IngridVanzeli/RESTFUL-API/assets/47196643/ea37011a-b521-496a-b513-7e160cc92725"width="400"/>
+<h4>Filtros da Tela</h4>
+<img src="https://github.com/IngridVanzeli/Upstream/assets/47196643/6731083e-b4a3-4034-808d-e2da7f1093f2"width="400"/>
 
-<h4>ADD OBJECT</h4>
-<img src="https://github.com/IngridVanzeli/RESTFUL-API/assets/47196643/70bafa58-87ba-4c6f-bd69-c9bcfe948373" width="400"/>
-
-<h4>UPDATE OBJECT</h4>
-<img src="https://github.com/IngridVanzeli/RESTFUL-API/assets/47196643/ee245b82-6ed4-4eac-badc-69ed2ffef866" width="400"/>
-
-<h4>DELETE OBJECT</h4>
-<img src="https://github.com/IngridVanzeli/RESTFUL-API/assets/47196643/94436ac0-c574-46f4-a1fa-f6484921f4fb" width="400"/>
+<h4>Concluir e Limpar Tarefas</h4>
+<img src="https://github.com/IngridVanzeli/Upstream/assets/47196643/27e147ec-e8ad-4bf9-bd24-7c55c895502c" width="400"/>
