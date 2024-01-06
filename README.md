@@ -1,5 +1,4 @@
 # Upstream - Analise de User Stories
-<h1 align="center"> Exemplos de User Stories do site todomvc.com </h1>
 
 Este repositório tem como objetivo documentar as funcionalidades estudadas no site https://todomvc.com/examples/react/#/
 
