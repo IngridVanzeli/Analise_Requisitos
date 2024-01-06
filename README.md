@@ -10,10 +10,10 @@ Este repositório tem como objetivo documentar as funcionalidades estudadas no s
 <h3>User Stories</h3>
 
 <h4>Tela Inicial</h4>
-<img src="![image](https://github.com/IngridVanzeli/Upstream/assets/47196643/2948d312-4dcd-4099-9bff-9be7dae30c1a)" width="400"/>
+<img src="https://github.com/IngridVanzeli/Upstream/assets/47196643/2948d312-4dcd-4099-9bff-9be7dae30c1a" width="400"/>
 
-<h4>LIST OF OBJECTS BY IDS</h4>
-<img src="https://github.com/IngridVanzeli/RESTFUL-API/assets/47196643/064198c4-625a-4833-8df3-eacfebdd5d54" width="400"/>
+<h4>ADICIONAR ITENS</h4>
+<img src="https://github.com/IngridVanzeli/Upstream/assets/47196643/833b29db-8afd-4f95-ab47-37aaa2c93b5e" width="400"/>
 
 <h4>SINGLE OBJECT</h4>
 <img src="https://github.com/IngridVanzeli/RESTFUL-API/assets/47196643/ea37011a-b521-496a-b513-7e160cc92725"width="400"/>
