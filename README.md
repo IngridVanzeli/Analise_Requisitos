@@ -1,4 +1,4 @@
-# Upstream - Analise de User Stories
+# Analise de Casos de Teste
 
 Este repositório tem como objetivo documentar as funcionalidades estudadas no site https://todomvc.com/examples/react/#/
 
