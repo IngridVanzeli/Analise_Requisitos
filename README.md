@@ -1,6 +1,6 @@
 # Analise de Casos de Teste
 
-Este repositório tem como objetivo documentar as funcionalidades estudadas no site https://todomvc.com/examples/react/#/
+Este repositório tem como objetivo documentar o levantamento de requisitos estudados no site https://todomvc.com/examples/react/#/
 
 <h4>Tela Inicial</h4>
 <img src="https://github.com/IngridVanzeli/Upstream/assets/47196643/4e5520c5-c49a-4793-80b0-d6fdf17b851d" width="400"/>
