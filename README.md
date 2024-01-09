@@ -1,4 +1,4 @@
-# Analise de Casos de Teste
+# Analise de Levantamento de Requisitos
 
 Este repositório tem como objetivo documentar o levantamento de requisitos estudados no site https://todomvc.com/examples/react/#/
 
