@@ -12,4 +12,4 @@ Este repositório tem como objetivo documentar o levantamento de requisitos estu
 <img src="https://github.com/IngridVanzeli/Upstream/assets/47196643/6731083e-b4a3-4034-808d-e2da7f1093f2"width="400"/>
 
 <h4>Concluir e Limpar Tarefas</h4>
-<img src="https://github.com/IngridVanzeli/Upstream/assets/47196643/27e147ec-e8ad-4bf9-bd24-7c55c895502c" width="400"/>
+<img src="https://github.com/IngridVanzeli/Analise_Requisitos/assets/47196643/0ef9362d-e820-4ad3-a966-3e37e46980f4" width="400"/>
