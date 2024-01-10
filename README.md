@@ -3,13 +3,13 @@
 Este repositório tem como objetivo documentar o levantamento de requisitos estudados no site https://todomvc.com/examples/react/#/
 
 <h4>Tela Inicial</h4>
-<img src="https://github.com/IngridVanzeli/Upstream/assets/47196643/4e5520c5-c49a-4793-80b0-d6fdf17b851d" width="400"/>
+<img src="https://github.com/IngridVanzeli/Analise_Requisitos/assets/47196643/ca3fd526-1157-4cac-add3-324b700861fd" width="400"/>
 
-<h4>Adicionar itens</h4>
-<img src="https://github.com/IngridVanzeli/Upstream/assets/47196643/5a155e04-6a53-4df1-a983-8d97bd62bd06" width="400"/>
+<h4>Adicionar Itens</h4>
+<img src="https://github.com/IngridVanzeli/Analise_Requisitos/assets/47196643/7f9d1011-692b-48e3-859e-4f7af4a7864b" width="400"/>
 
 <h4>Filtros da Tela</h4>
-<img src="https://github.com/IngridVanzeli/Upstream/assets/47196643/6731083e-b4a3-4034-808d-e2da7f1093f2"width="400"/>
+<img src="https://github.com/IngridVanzeli/Analise_Requisitos/assets/47196643/5078504d-abf4-4641-9579-51275feb09ed"width="400"/>
 
 <h4>Concluir e Limpar Tarefas</h4>
-<img src="https://github.com/IngridVanzeli/Analise_Requisitos/assets/47196643/0ef9362d-e820-4ad3-a966-3e37e46980f4" width="400"/>
+<img src="https://github.com/IngridVanzeli/Analise_Requisitos/assets/47196643/cee7ddbc-69e2-4bdf-9cce-97f9765586b6" width="400"/>
